@@ -7,7 +7,13 @@
   },
   "description": "File input management for Angular Material",
   "homepage": "https://merlosy.github.io/ngx-material-file-input/",
-  "keywords": ["angular", "material", "file", "input", "mat-form-field"],
+  "keywords": [
+    "angular",
+    "material",
+    "file",
+    "input",
+    "mat-form-field"
+  ],
   "bugs": {
     "url": "https://github.com/merlosy/ngx-material-file-input/issues"
   },
@@ -17,10 +23,10 @@
   },
   "dependencies": {},
   "peerDependencies": {
-    "@angular/cdk": "^14.0.0",
-    "@angular/common": "^14.0.0",
-    "@angular/core": "^14.0.0",
-    "@angular/material": "^14.0.0"
+    "@angular/cdk": "^15.0.0",
+    "@angular/common": "^15.0.0",
+    "@angular/core": "^15.0.0",
+    "@angular/material": "^15.0.0"
   },
   "ngPackage": {
     "lib": {
